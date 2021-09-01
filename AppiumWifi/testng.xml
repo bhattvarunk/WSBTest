@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Android Wifi">
+        <classes>
+            <class name="com.helloselenium.tests.android.AndroidWifiTests"></class>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
